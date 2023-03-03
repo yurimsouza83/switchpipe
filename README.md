@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
