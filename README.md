@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
