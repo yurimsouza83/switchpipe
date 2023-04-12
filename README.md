@@ -1,1 +1,1 @@
-update README
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
