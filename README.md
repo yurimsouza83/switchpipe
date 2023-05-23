@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add visuals in guides/distance-calculation.md (#7876)
