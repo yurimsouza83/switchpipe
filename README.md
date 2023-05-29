@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Update Colab notebook for YOLOv8.1 (#8660)
