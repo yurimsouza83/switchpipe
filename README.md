@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
