@@ -1,1 +1,1 @@
-fix resume training
+Update CITATION.cff with cffinit corrections (#8658)
