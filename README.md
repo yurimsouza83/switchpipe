@@ -1,1 +1,1 @@
-fix resume training
+Add yolo_bbox2segment docs reference (#7751)
