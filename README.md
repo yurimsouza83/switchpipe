@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Update H1 in Explorer API docs (#7813)
