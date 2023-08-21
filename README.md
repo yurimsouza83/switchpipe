@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add PaddlePaddle Docs Integrations Page (#8858)
