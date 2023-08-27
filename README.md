@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+* fix for predicting with batch_size > 1
