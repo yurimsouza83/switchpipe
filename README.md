@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
