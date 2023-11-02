@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Avoid creating -hub dir without processing images (#8334)
