@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
