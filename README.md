@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add new YOLOv8 OBB model metrics (#7379)
