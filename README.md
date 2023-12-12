@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
