@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
