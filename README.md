@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
