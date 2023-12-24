@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
