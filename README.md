@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
