@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
