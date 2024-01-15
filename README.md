@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Fix docs links (#7096)
