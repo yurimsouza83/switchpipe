@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
