@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+More robust PNNX downloads (#8866)
