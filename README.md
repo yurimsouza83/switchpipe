@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
