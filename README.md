@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add OBB benchmarks to CI (#7777)
