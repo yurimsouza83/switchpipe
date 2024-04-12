@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
