@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
