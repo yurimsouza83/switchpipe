@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add missing single-line docstrings (#8362)
