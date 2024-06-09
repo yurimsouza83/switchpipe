@@ -1,1 +1,1 @@
-add yolov10
+Pass callbacks to validator (#7320)
