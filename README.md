@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
