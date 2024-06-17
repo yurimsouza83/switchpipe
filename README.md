@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
