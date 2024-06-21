@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Batch inference fixes (#8854)
