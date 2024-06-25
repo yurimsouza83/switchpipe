@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Update Discord and Contributing Guide URLs (#9270)
