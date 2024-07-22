@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
