@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Link checks SSL insecure robustness (#7853)
