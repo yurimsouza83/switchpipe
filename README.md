@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
