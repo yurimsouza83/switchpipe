@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add YOLOv8 LibTorch C++ inference example (#7090)
