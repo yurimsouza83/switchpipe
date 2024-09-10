@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add visuals in guides/distance-calculation.md (#7876)
