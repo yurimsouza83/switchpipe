@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Fix docs H1 tags (#7182)
