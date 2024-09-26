@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update H1 in Explorer API docs (#7813)
