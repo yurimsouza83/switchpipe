@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Fix heatmaps width-height order bug (#7184)
