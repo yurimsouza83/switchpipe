@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
